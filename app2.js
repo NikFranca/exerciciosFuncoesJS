@@ -1,7 +1,6 @@
 //Crie uma função que calcule o índice de massa corporal (IMC) 
 //de uma pessoa, a partir de sua altura, em metros, e peso, em
 //quilogramas, que serão recebidos como parâmetro.
-/*
 function imc(){
     let altura = prompt("me diga sua altura ex: 1.75 ");
     let peso = prompt("me diga a o seu peso ex: 70 ");
@@ -28,8 +27,9 @@ function dolar(){
     let cotacao = 5.25 * real
     alert(`o valor convertido em dolar é U$${cotacao}`); 
 }
-dolar();*/
+dolar();
 
+//Crie uma função que mostre na tela a tabuada de um número dado como parâmetro.
 function taboada(){
     let n1 = Number(prompt("me diga um numero para ver a taboada: "));
     let contador2 = 1;
